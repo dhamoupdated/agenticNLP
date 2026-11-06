@@ -1,0 +1,11 @@
+text,category,sentiment
+"The delivery was late, but the support team resolved my issue quickly.",Delivery,Mixed
+"I was charged twice for my order and nobody replies to my emails.",Billing,Negative
+"The app crashes every time I try to checkout.",App/website,Negative
+"Great quality, exactly as described. Love it!",Product quality,Positive
+"Still waiting for my refund after returning the item two weeks ago.",Returns/refunds,Negative
+"The support agent was friendly and solved my problem in minutes.",Customer support,Positive
+"My parcel never arrived and tracking shows nothing.",Delivery,Negative
+"The blender stopped working after a week.",Product quality,Negative
+"Website login is slow but works fine otherwise.",App/website,Mixed
+"I received the invoice for last month.",Billing,Neutral
